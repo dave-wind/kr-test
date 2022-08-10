@@ -1,5 +1,5 @@
 FROM node:11
-MAINTAINER easydoc.net
+MAINTAINER dave-wind
 
 # 复制代码
 ADD . /app
